@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+fastapi
+uvicorn
+pydantic
+requests
+shap
+xgboost
+joblib
+pandas
+numpy
+scikit-learn
+python-dotenv
+networkx
+dnspython
